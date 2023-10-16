@@ -1,4 +1,4 @@
-package newproject;
+package conssuper;
 
 public class InstanceAdd {
 	int x=10,y=20,c;

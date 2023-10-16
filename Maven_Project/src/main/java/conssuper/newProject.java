@@ -1,4 +1,4 @@
-package newproject;
+package conssuper;
 
 public class newProject {
 

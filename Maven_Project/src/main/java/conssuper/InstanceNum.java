@@ -1,4 +1,4 @@
-package newproject;
+package conssuper;
 
 public class InstanceNum extends InstanceAdd  {
 	public void display()
