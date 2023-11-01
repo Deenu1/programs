@@ -1,6 +1,7 @@
 package conssuper;
 
 public class DivisibleBy10 extends AdditionResult{
+	int c;
 	public DivisibleBy10(int a, int b) {
         super(a,b);
     }
